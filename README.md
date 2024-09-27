@@ -25,6 +25,10 @@
 ![Capture d’écran du 2024-09-27 15-21-16](https://github.com/user-attachments/assets/63bb97e3-43d5-45f5-8b0c-1c173f1153f6)
 ### secret
 ![Capture d’écran du 2024-09-27 15-23-56](https://github.com/user-attachments/assets/072c4c9e-e1a5-48d5-8dba-63f9e75bdd00)
+### docker deploy
+![Capture d’écran du 2024-09-27 15-44-39](https://github.com/user-attachments/assets/9a6f600a-79b7-40dc-b4c6-57d970db79f2)
 
+### Workflows
+![Capture d’écran du 2024-09-27 15-43-04](https://github.com/user-attachments/assets/b5c8deb1-8649-4a77-918e-82a7901af61a)
 
 
